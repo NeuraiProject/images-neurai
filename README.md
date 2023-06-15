@@ -8,5 +8,6 @@
 - Black & white version.
 - MIT licence in this images.
 
-Original v1.1
+## Original v1.1
+
 ![](logo/neurai-logo1.1.svg)
